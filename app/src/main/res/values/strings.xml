@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="text_edit">Enter text</string>
+    <string name="text_view">Your text</string>
+</resources>
